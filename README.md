@@ -106,7 +106,7 @@ Models were evaluated using **Group 4-Fold Cross-Validation**:
 | 1 | S04, S08, S03, S06 | S01, S05 | S02, S07 |
 | 2 | S02, S07, S03, S06 | S04, S08 | S01, S05 |
 | 3 | S02, S07, S01, S05 | S03, S06 | S04, S08 |
-| 4 | S02, S07, S01, S05 | S04, S08 | S03, S06 |
+| 4 | S04, S08, S01, S05 | S02, S07 | S03, S06 |
 
 No subject appears in both training and test set, ensuring leakage-free
 evaluation.
