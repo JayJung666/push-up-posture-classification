@@ -140,4 +140,10 @@ appropriate credit is given.
 
 ## Contact
 
-For questions regarding this dataset, please contact the corresponding author.
+This dataset was collected and curated by Antonius Vincent Jung.
+For questions regarding this dataset or to request access to the
+raw video recordings, please contact:
+
+**Antonius Vincent Jung**
+vincentjung@student.telkomuniversity.ac.id
+antoniusvincent09@gmail.com
